@@ -31,6 +31,8 @@ export default function Home() {
         <div className="text-center sm:text-left">
           <h1 className="text-2xl font-bold mb-4">
             Welcome to Git Course for Beginners!
+            Col bean
+            col bean
           </h1>
           <p className="text-sm/6 font-[family-name:var(--font-geist-mono)]">
             This is a cool thing and more
