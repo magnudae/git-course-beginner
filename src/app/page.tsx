@@ -36,6 +36,15 @@ export default function Home() {
           </h1>
           <p className="text-sm/6 font-[family-name:var(--font-geist-mono)]">
             This is a cool thing and more
+            <br />
+            <span className="text-sm/6 font-[family-name:var(--font-geist-mono)]">
+              This is a cool thing and more
+              <br />
+              This is a cool thing and more
+              <br />
+              This is a cool thing and more
+              <br />
+              </span>
           </p>
         </div>
       </main>
